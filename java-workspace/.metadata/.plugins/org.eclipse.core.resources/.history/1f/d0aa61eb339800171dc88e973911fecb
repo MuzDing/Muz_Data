@@ -1,0 +1,20 @@
+package test;
+
+import java.util.Scanner;
+
+public class jisuanqi {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		Scanner sc =new Scanner(System.in);
+		System.out.println("number one:");
+		int num1=sc.nextInt();
+		System.out.println("输入符号:");
+		String fuhao = sc.nextLine();
+		System.out.println("number two");
+		int num2=sc.nextInt();
+		
+		System.out.println(num1+num2+fuhao);
+	}
+
+}

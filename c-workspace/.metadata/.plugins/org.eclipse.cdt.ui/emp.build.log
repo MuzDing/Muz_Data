@@ -1,0 +1,18 @@
+11:34:38 **** Build of configuration Debug for project emp ****
+make all 
+Building file: ../src/test.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test.d" -MT"src/test.o" -o "src/test.o" "../src/test.c"
+Finished building: ../src/test.c
+ 
+Building target: emp
+Invoking: GCC C Linker
+gcc  -o "emp"  ./src/test.o   
+/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o：在函数‘_start’中：
+makefile:30: recipe for target 'emp' failed
+(.text+0x20)：对‘main’未定义的引用
+collect2: error: ld returned 1 exit status
+make: *** [emp] Error 1
+
+11:34:38 Build Finished (took 139ms)
+
