@@ -1,0 +1,18 @@
+11:28:43 **** Incremental Build of configuration Debug for project qw ****
+make all 
+Building file: ../src/e.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/e.d" -MT"src/e.o" -o "src/e.o" "../src/e.c"
+../src/e.c:3:6: warning: return type of ‘main’ is not ‘int’ [-Wmain]
+ void main()
+      ^
+Finished building: ../src/e.c
+ 
+Building target: qw
+Invoking: GCC C Linker
+gcc  -o "qw"  ./src/e.o   
+Finished building target: qw
+ 
+
+11:28:43 Build Finished (took 197ms)
+

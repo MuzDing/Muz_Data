@@ -1,0 +1,25 @@
+package jframe;
+
+import java.awt.Frame;
+
+import javax.swing.JTextField;
+import javax.swing.text.LayeredHighlighter.LayerPainter;
+
+public class jtextfield extends Frame {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		Frame fram = new Frame();
+		fram.setSize(200, 300);
+		fram.setVisible(true);
+		
+		
+		JTextField jfd=new JTextField();
+		fram.add(jfd);
+		
+		jfd.setSize(30, 20);
+		jfd.setToolTipText("xixihaha");
+		jfd.setText("asd");
+	}
+
+}

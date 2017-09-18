@@ -1,0 +1,48 @@
+package test;
+
+import java.util.Scanner;
+
+public class jisuanqi {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		Scanner sc =new Scanner(System.in);
+		System.out.println("number one:");
+		
+		Double num1=sc.nextDouble();
+		
+		System.out.println("number two");
+		Double num2=sc.nextDouble();
+		
+		System.out.println("输入符号:");
+		String temp = sc.nextLine();
+		String fuhao = sc.nextLine();
+		
+		Double num;
+		System.out.println(fuhao);
+		
+		
+	/*	switch (fuhao) {
+		case "+": num =add(num1,num2);break;
+		case "-":num =jian(num1,num2);break;
+		case "*":num =cheng(num1,num2);break;
+		case "/":num = chu(num1,num2);break;
+		default:
+			break;
+		} */
+		
+	}
+	public static Double add(Double num1,Double num2){
+		return num1+num2;
+	}
+	public static Double jian(Double num1,Double num2){
+		return num1-num2;
+	}
+	public static Double cheng(Double num1,Double num2){
+		return num1*num2;
+	}
+	public static Double chu(Double num1,Double num2){
+		return num1/num2;
+	}
+
+}

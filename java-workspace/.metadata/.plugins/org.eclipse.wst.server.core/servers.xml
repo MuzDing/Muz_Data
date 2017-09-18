@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/服务器/Tomcat v8.5 Server @ localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server @ localhost" name="Tomcat v8.5 Server @ localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="10">
+    <list key="modules" value0="javeEe::org.eclipse.jst.jee.server:javeEe::jst.web::3.0" value1="javaWebPro::org.eclipse.jst.jee.server:javaWebPro::jst.web::3.0" value2="helloWorld::org.eclipse.jst.jee.server:helloWorld::jst.web::3.1" value3="webPro::org.eclipse.jst.jee.server:webPro::jst.web::3.1"/>
+  </server>
+</servers>
