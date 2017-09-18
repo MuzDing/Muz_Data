@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="将编译单元“ex2.suanfu.java”重命名为“LL.java”&#x0A;－ 原始项目：“b_ex”&#x0A;－ 原始元素：“ex2.suanfu.java”&#x0A;－ 重命名的元素：“ex2.LL.java”" description="重命名编译单元“suanfu.java”" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ex2{suanfu.java" name="LL.java" references="false" stamp="1498791739860" version="1.0"/>
-</session>
