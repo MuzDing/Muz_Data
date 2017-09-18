@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="将编译单元“ex.a.java”重命名为“TypeUtil.java”&#x0A;－ 原始项目：“b_ex”&#x0A;－ 原始元素：“ex.a.java”&#x0A;－ 重命名的元素：“ex.TypeUtil.java”" description="重命名编译单元“a.java”" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ex{a.java" name="TypeUtil.java" references="false" stamp="1497236723370" version="1.0"/>
-</session>

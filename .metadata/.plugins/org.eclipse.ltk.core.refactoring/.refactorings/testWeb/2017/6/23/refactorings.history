@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="将资源“testWeb/WebContent/test2.jsp”重命名为“a.jsp”" description="重命名资源“test2.jsp”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/test2.jsp" name="a.jsp" stamp="1496719242468" updateReferences="true"/>
-</session>
