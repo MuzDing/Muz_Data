@@ -43,5 +43,5 @@
 	}
 	function ChangLink(){
 		document.getElementById("HyLink").innerHTML="baidu";
-		document.getElementById("divTest").href = "http://www.baidu.cn";
+		document.getElementById("divTest").href = "http://www.baidu.com";
 	}

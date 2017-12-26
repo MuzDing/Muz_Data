@@ -1,0 +1,23 @@
+/*
+ * jiam.c
+ *
+ *  Created on: 2017年6月24日
+ *      Author: muz
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int a[3]={6,7,8};
+	int b = -14;
+	for(int i=0;i<3;i++)
+	{
+		if(a[i]*2 +b >0)
+			printf("a");
+		else
+			printf("b");
+	}
+	return 0;
+}
+

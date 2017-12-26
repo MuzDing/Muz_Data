@@ -1,0 +1,16 @@
+/*
+ * jiam.c
+ *
+ *  Created on: 2017年6月24日
+ *      Author: muz
+ */
+
+#include <stdio.h>
+
+void main()
+{
+	int a[5]=[1,2,3,4,5];
+	int *ptr=(int*)(&a+1);
+	printf("%d,%d",*(a+1),*(ptr-1));
+}
+

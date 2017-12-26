@@ -1,0 +1,29 @@
+/*
+ * jiam.c
+ *
+ *  Created on: 2017年6月24日
+ *      Author: muz
+ */
+
+#include <iostream>
+
+
+void func()
+{
+	using namespace std;
+	cout<<123123<<endl;
+	char name[50];
+	cin>>name;
+	cout<<999999<<endl;
+
+}
+int main()
+{
+	int n,s;
+	n=101;
+	s=-1;
+	func(n,&s);
+	printf("%d",s);
+	return 0;
+}
+

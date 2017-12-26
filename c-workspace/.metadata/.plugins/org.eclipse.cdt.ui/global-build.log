@@ -53,3 +53,217 @@ Finished building target: jiami
 12:41:05 **** Incremental Build of configuration Debug for project jiami ****
 make all 
 make: Nothing to be done for 'all'.
+19:03:30 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c:10:6: warning: return type of ‘main’ is not ‘int’ [-Wmain]
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+ void main()
+      ^
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:12:11: error: expected expression before ‘[’ token
+  int a[5]=[1,2,3,4,5];
+           ^
+../src/jiam.c:12:13: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+             ^
+../src/jiam.c:12:15: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+               ^
+../src/jiam.c:12:17: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+                 ^
+../src/jiam.c:12:19: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+                   ^
+make: *** [src/jiam.o] Error 1
+19:04:17 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:12:11: error: expected expression before ‘[’ token
+  int a[5]=[1,2,3,4,5];
+           ^
+../src/jiam.c:12:13: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+             ^
+../src/jiam.c:12:15: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+               ^
+../src/jiam.c:12:17: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+                 ^
+../src/jiam.c:12:19: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+  int a[5]=[1,2,3,4,5];
+                   ^
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+make: *** [src/jiam.o] Error 1
+19:04:56 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+Finished building: ../src/jiam.c
+ 
+Building target: jiami
+Invoking: GCC C Linker
+gcc  -o "jiami"  ./src/jiam.o   
+Finished building target: jiami
+ 
+19:17:46 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+Finished building: ../src/jiam.c
+ 
+Building target: jiami
+Invoking: GCC C Linker
+gcc  -o "jiami"  ./src/jiam.o   
+Finished building target: jiami
+ 
+19:18:05 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+Finished building: ../src/jiam.c
+ 
+Building target: jiami
+Invoking: GCC C Linker
+gcc  -o "jiami"  ./src/jiam.o   
+Finished building target: jiami
+ 
+19:20:10 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:12:19: error: ‘OxFFFFFFF7’ undeclared (first use in this function)
+  unsigned int a = OxFFFFFFF7;
+                   ^
+../src/jiam.c:12:19: note: each undeclared identifier is reported only once for each function it appears in
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+../src/jiam.c:15:2: error: expected ‘,’ or ‘;’ before ‘printf’
+  printf("%08x,%08x",i,*b);
+  ^
+../src/jiam.c:14:8: warning: unused variable ‘b’ [-Wunused-variable]
+  char* b = (char*)&a
+        ^
+../src/jiam.c:13:7: warning: unused variable ‘i’ [-Wunused-variable]
+  char i = (unsigned char)a;
+       ^
+make: *** [src/jiam.o] Error 1
+19:20:57 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:12:19: error: ‘OxFFFFFFF7’ undeclared (first use in this function)
+  unsigned int a = OxFFFFFFF7;
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+                   ^
+../src/jiam.c:12:19: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/jiam.o] Error 1
+19:21:50 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+Finished building: ../src/jiam.c
+ 
+Building target: jiami
+Invoking: GCC C Linker
+gcc  -o "jiami"  ./src/jiam.o   
+Finished building target: jiami
+ 
+19:26:07 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:13:20: warning: suggest parentheses around ‘+’ inside ‘>>’ [-Wparentheses]
+  printf("0x%x\n",~i>>3+1);
+                    ^
+Finished building: ../src/jiam.c
+ 
+Building target: jiami
+Invoking: GCC C Linker
+gcc  -o "jiami"  ./src/jiam.o   
+Finished building target: jiami
+ 
+19:29:56 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘func’:
+../src/jiam.c:13:7: warning: value computed is not used [-Wunused-value]
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+  (n>1)&&func(n-1,s);
+       ^
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:23:2: error: ‘cout’ undeclared (first use in this function)
+  cout<<s<<endl;
+  ^
+../src/jiam.c:23:2: note: each undeclared identifier is reported only once for each function it appears in
+../src/jiam.c:23:11: error: ‘endl’ undeclared (first use in this function)
+  cout<<s<<endl;
+           ^
+make: *** [src/jiam.o] Error 1
+19:30:26 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘func’:
+../src/jiam.c:13:7: warning: value computed is not used [-Wunused-value]
+  (n>1)&&func(n-1,s);
+       ^
+../src/jiam.c: In function ‘main’:
+../src/jiam.c:24:2: error: expected ‘;’ before ‘return’
+  return 0;
+  ^
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+make: *** [src/jiam.o] Error 1
+19:30:38 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c: In function ‘func’:
+../src/jiam.c:13:7: warning: value computed is not used [-Wunused-value]
+  (n>1)&&func(n-1,s);
+       ^
+Finished building: ../src/jiam.c
+ 
+Building target: jiami
+Invoking: GCC C Linker
+gcc  -o "jiami"  ./src/jiam.o   
+Finished building target: jiami
+ 
+19:56:14 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c:8:22: fatal error: iostream.h: 没有那个文件或目录
+compilation terminated.
+make: *** [src/jiam.o] Error 1
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+19:56:48 **** Incremental Build of configuration Debug for project jiami ****
+make all 
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c:8:20: fatal error: iostream: 没有那个文件或目录
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+make: *** [src/jiam.o] Error 1

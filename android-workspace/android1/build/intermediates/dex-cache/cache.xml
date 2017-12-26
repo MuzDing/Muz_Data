@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/muz/Applications/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/muz/workspace/android-workspace/android1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_3e578a1d1065bc9ef2718cca1329f4d7692a7577.jar" />
+    </item>
+
+</items>

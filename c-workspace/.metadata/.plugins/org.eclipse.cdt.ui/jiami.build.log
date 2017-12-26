@@ -1,6 +1,12 @@
-12:41:05 **** Incremental Build of configuration Debug for project jiami ****
+19:56:48 **** Incremental Build of configuration Debug for project jiami ****
 make all 
-make: Nothing to be done for 'all'.
+Building file: ../src/jiam.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/jiam.d" -MT"src/jiam.o" -o "src/jiam.o" "../src/jiam.c"
+../src/jiam.c:8:20: fatal error: iostream: 没有那个文件或目录
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/jiam.o' failed
+make: *** [src/jiam.o] Error 1
 
-12:41:05 Build Finished (took 120ms)
+19:56:48 Build Finished (took 118ms)
 

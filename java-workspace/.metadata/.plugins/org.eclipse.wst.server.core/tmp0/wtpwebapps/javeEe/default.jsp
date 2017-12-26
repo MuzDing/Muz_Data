@@ -17,8 +17,7 @@ $(function(){
 })
 
 $(function() {
-	
-	
+
 	$("#btnLogin").click(function () {
 		var strUserID;
 		var strUserPWD;

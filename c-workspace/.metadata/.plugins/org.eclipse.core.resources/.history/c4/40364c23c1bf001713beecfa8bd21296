@@ -1,0 +1,26 @@
+/*
+ * jiam.c
+ *
+ *  Created on: 2017年6月24日
+ *      Author: muz
+ */
+
+#include <stdio.h>
+
+
+int func(int n, int* s)
+{
+	(n>1)&&func(n-1,s);
+	*s+=n;
+	return 0;
+}
+int main()
+{
+	int n,s;
+	n=101;
+	s=-1;
+	func(n,&s);
+	cont<<s<<endl;
+	return 0;
+}
+

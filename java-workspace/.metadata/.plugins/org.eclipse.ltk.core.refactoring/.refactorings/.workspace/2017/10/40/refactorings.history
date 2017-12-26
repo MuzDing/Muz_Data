@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="删除资源“ssm-crud”" deleteContents="true" description="删除资源“ssm-crud”" element1="/ssm-crud" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1506996270104"/>
+</session>

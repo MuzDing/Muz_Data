@@ -1,0 +1,7 @@
+#Wed Sep 27 12:05:43 CST 2017
+base.0=/home/muz/workspace/android-workspace/app1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9dcdd9f3e89d3343cff39f4f3bc2a4e5763362c4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/muz/workspace/android-workspace/app1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f133321e80a90f34bb3cbae2786459df17469b3/classes.dex
+base.1=/home/muz/workspace/android-workspace/app1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f133321e80a90f34bb3cbae2786459df17469b3
+file.0=/home/muz/workspace/android-workspace/app1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9dcdd9f3e89d3343cff39f4f3bc2a4e5763362c4/classes.dex

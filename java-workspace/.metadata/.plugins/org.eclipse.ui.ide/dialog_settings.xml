@@ -15,6 +15,11 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/muz/workspace/java-workspace/myjsp"/>
+			<item value="/home/muz/workspace/java-workspace/springmvc1"/>
+			<item value="/home/muz/workspace/java-workspace/ssm02"/>
+			<item value="/home/muz/workspace/java-workspace/ssm"/>
+			<item value="/home/muz/workspace/java-workspace/ssm-master"/>
 			<item value="/home/muz/workspace/java-workspace/javaWebPro"/>
 			<item value="/home/muz/workspace/java-workspace/mytest"/>
 			<item value="/home/muz/桌面/javaWebPro"/>
@@ -28,5 +33,10 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
 	</section>
 </section>

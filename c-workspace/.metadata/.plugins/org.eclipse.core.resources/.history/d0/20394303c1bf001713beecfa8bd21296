@@ -1,0 +1,16 @@
+/*
+ * jiam.c
+ *
+ *  Created on: 2017年6月24日
+ *      Author: muz
+ */
+
+#include <stdio.h>
+
+
+int func(int n, int* s)
+int main()
+{
+	(n>1)&&func(n-1,s)
+}
+

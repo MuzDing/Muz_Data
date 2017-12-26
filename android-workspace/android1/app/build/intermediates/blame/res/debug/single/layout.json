@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/muz/workspace/android-workspace/android1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/muz/workspace/android-workspace/android1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/muz/workspace/android-workspace/android1/app/build/intermediates/res/merged/debug/layout/error.xml",
+        "source": "/home/muz/workspace/android-workspace/android1/app/src/main/res/layout/error.xml"
+    },
+    {
+        "merged": "/home/muz/workspace/android-workspace/android1/app/build/intermediates/res/merged/debug/layout/first.xml",
+        "source": "/home/muz/workspace/android-workspace/android1/app/src/main/res/layout/first.xml"
+    }
+]

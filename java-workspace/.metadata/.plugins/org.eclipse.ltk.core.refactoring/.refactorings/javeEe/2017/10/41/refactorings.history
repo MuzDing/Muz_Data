@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“com.czu.UserMangerBean”重命名为“UserManagerBean”&#x0A;－ 原始项目：“javeEe”&#x0A;－ 原始元素：“com.czu.UserMangerBean”&#x0A;－ 重命名的元素：“com.czu.UserManagerBean”&#x0A;－ 更新对已重构元素的引用&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“UserMangerBean”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.czu{UserMangerBean.java[UserMangerBean" matchStrategy="1" name="UserManagerBean" qualified="false" references="true" similarDeclarations="false" stamp="1507515326383" textual="false" version="1.0"/>
+</session>

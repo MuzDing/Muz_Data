@@ -1,0 +1,4 @@
+ddms.logcat.auotmonitor.level=error
+eclipse.preferences.version=1
+logcat.messagelist.max.size=5000
+logcat.view.auto-scroll-lock=true

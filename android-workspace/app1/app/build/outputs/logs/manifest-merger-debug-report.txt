@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:11:5-52:19
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.app.MainActivity
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:17:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.app.Error
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:27:13-49
+activity#com.example.app.First
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:31:9-35:20
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:32:13-49
+activity#com.example.app.Res
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:37:13-47
+activity#com.example.app.RE_Error
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:41:11-45:20
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:42:13-52
+activity#com.example.app.file
+ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:47:9-51:20
+	android:label
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from /home/muz/workspace/android-workspace/app1/app/src/main/AndroidManifest.xml:48:13-48

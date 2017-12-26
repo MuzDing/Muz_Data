@@ -1,0 +1,18 @@
+/*
+ * jiam.c
+ *
+ *  Created on: 2017年6月24日
+ *      Author: muz
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	unsigned int a = OxFFFFFFF7;
+	char i = (unsigned char)a;
+	char* b = (char*)&a
+	printf("%08x,%08x",i,*b)
+	return 0;
+}
+

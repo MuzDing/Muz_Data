@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/muz/workspace/android-workspace/android2/app/build/intermediates/res/merged/debug/layout/re_error.xml",
+        "source": "/home/muz/workspace/android-workspace/android2/app/src/main/res/layout/re_error.xml"
+    },
+    {
+        "merged": "/home/muz/workspace/android-workspace/android2/app/build/intermediates/res/merged/debug/layout/reg.xml",
+        "source": "/home/muz/workspace/android-workspace/android2/app/src/main/res/layout/reg.xml"
+    },
+    {
+        "merged": "/home/muz/workspace/android-workspace/android2/app/build/intermediates/res/merged/debug/layout/error.xml",
+        "source": "/home/muz/workspace/android-workspace/android2/app/src/main/res/layout/error.xml"
+    },
+    {
+        "merged": "/home/muz/workspace/android-workspace/android2/app/build/intermediates/res/merged/debug/layout/first.xml",
+        "source": "/home/muz/workspace/android-workspace/android2/app/src/main/res/layout/first.xml"
+    },
+    {
+        "merged": "/home/muz/workspace/android-workspace/android2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/muz/workspace/android-workspace/android2/app/src/main/res/layout/activity_main.xml"
+    }
+]
