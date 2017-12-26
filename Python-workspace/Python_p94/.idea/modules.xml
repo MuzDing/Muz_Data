@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Professional_Python/.idea/Professional_Python.iml" filepath="$PROJECT_DIR$/../Professional_Python/.idea/Professional_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_p94.iml" filepath="$PROJECT_DIR$/.idea/Python_p94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hexin/.idea/hexin.iml" filepath="$PROJECT_DIR$/../hexin/.idea/hexin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_test/.idea/my_test.iml" filepath="$PROJECT_DIR$/../my_test/.idea/my_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyday/.idea/pyday.iml" filepath="$PROJECT_DIR$/../pyday/.idea/pyday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sogou_test/.idea/sogou_test.iml" filepath="$PROJECT_DIR$/../sogou_test/.idea/sogou_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web scrapig with python/.idea/web scrapig with python.iml" filepath="$PROJECT_DIR$/../web scrapig with python/.idea/web scrapig with python.iml" />
+    </modules>
+  </component>
+</project>
