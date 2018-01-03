@@ -1,0 +1,23 @@
+package day2;
+
+public class TwoDimensional {
+
+	public static void main(String[] args) {
+		int[][] array= new int[20][5]; 
+		int[] countScore = new int[20];
+		
+	}
+	public static void init(int[][] array){
+		for(int i=0;i<20;i++){
+			for(int j=0;j<5;j++){
+				array[i][j]=(int)(Math.random()*100);
+			}
+		}
+	}
+	public static void printScore(int[][] array){
+		for(int i=0;i<20;i++){
+			System.out.println(" core c++:"+array[i][0]+" core java:"+array[i][1]+" Servlet:"+array[i][2]+" Jsp:"+array[i][3]+" EJB:"+array[i][4]);
+		}
+	}
+	
+}

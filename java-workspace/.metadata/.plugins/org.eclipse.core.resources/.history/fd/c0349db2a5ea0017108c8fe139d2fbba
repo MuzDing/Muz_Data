@@ -1,0 +1,19 @@
+package day1;
+
+public class question_one {
+	public static void main(String[] args) {
+		int j = 0;
+		boolean flag=false;
+		for (int i = 2; i <= 100; i++) {
+			for (j = 2; j <= Math.sqrt(i) ; j++) {
+				if (i % j == 0) {
+					flag=true;
+					break;
+				}
+			}
+			if (flag) {
+				System.out.println(i);
+			}
+		}
+	}
+}

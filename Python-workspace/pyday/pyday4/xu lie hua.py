@@ -6,10 +6,10 @@ info={
 }
 
 f=open("test.txt",'r')
-# data = json.loads(f.read())
+data = json.loads(f.read())
 # f.write(pickle.dumps(info))   #wb
 # f.write(json.dumps(info))     #w
 
 f.close()
-# print(data['age'])
+print(data['age'])
 

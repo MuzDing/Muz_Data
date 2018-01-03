@@ -1,0 +1,35 @@
+package day3;
+
+public class Point {
+
+	private double point_x;
+	private double point_y;
+
+	public Point(double x,double y){
+		point_x=1.00;
+		point_y=1.00;
+	}
+
+	public double getx() {
+		return point_x;
+	}
+
+	public void setx(double point_x) {
+		this.point_x = point_x;
+	}
+
+	public double gety() {
+		return point_y;
+	}
+
+	public void sety(double point_y) {
+		this.point_y = point_y;
+	}
+
+	@Override
+	public String toString() {
+		return "Point [point_x=" + point_x + ", point_y=" + point_y + "]";
+	}
+
+	g
+}

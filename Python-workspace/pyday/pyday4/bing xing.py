@@ -1,9 +1,13 @@
 import time
+
+
 def consumer(name):
     print("准备吃包子了%s"%name)
     while True:
         baozi = yield
         print("包子%s被%s吃掉了"%(baozi,name))
+
+
 def producter(name):
     c=consumer('a')
     c2=consumer('b')

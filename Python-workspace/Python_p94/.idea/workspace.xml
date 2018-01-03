@@ -5,12 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/../pyday/pyday4/nei zhi fangfa.py" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec9c1a5b-54e4-416c-a9e2-f1c53332e716" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python_p94.iml" afterPath="$PROJECT_DIR$/.idea/Python_p94.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.13.1.py" afterPath="$PROJECT_DIR$/4.13.1.py" />
-    </list>
+    <list default="true" id="ec9c1a5b-54e4-416c-a9e2-f1c53332e716" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +18,7 @@
     <SUITE FILE_PATH="coverage/Python_p94$10_1_9.coverage" NAME="10.1.9 Coverage Results" MODIFIED="1505116590704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class1" />
     <SUITE FILE_PATH="coverage/Python_p94$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1504614947499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test2/test" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_3.coverage" NAME="10.1.3 Coverage Results" MODIFIED="1505113945766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
-    <SUITE FILE_PATH="coverage/Python_p94$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1509507090690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
+    <SUITE FILE_PATH="coverage/Python_p94$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1514376830831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
     <SUITE FILE_PATH="coverage/Python_p94$10_2_1.coverage" NAME="10.2.1 Coverage Results" MODIFIED="1505116820260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class2" />
     <SUITE FILE_PATH="coverage/Python_p94$socket_server_ssh.coverage" NAME="socket_server_ssh Coverage Results" MODIFIED="1513495866042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday8" />
     <SUITE FILE_PATH="coverage/Python_p94$1_6_4.coverage" NAME="1.6.4 Coverage Results" MODIFIED="1511750194573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_one" />
@@ -32,14 +27,16 @@
     <SUITE FILE_PATH="coverage/Python_p94$9_1_2.coverage" NAME="9.1.2 Coverage Results" MODIFIED="1505032603929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test9" />
     <SUITE FILE_PATH="coverage/Python_p94$maoyanTop100.coverage" NAME="maoyanTop100 Coverage Results" MODIFIED="1507645926291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/pachong" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_7.coverage" NAME="10.5.7 Coverage Results" MODIFIED="1505200955760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
-    <SUITE FILE_PATH="coverage/Python_p94$honglvdeng.coverage" NAME="honglvdeng Coverage Results" MODIFIED="1513531294822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$honglvdeng.coverage" NAME="honglvdeng Coverage Results" MODIFIED="1514427362864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
     <SUITE FILE_PATH="coverage/Python_p94$6_14.coverage" NAME="6.14 Coverage Results" MODIFIED="1504781083588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
-    <SUITE FILE_PATH="coverage/Python_p94$threading_ex3_demo.coverage" NAME="threading_ex3_demo Coverage Results" MODIFIED="1513529356569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$threading_ex3_demo.coverage" NAME="threading_ex3_demo Coverage Results" MODIFIED="1514426303973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$xxa.coverage" NAME="xxa Coverage Results" MODIFIED="1514867474215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/untitled1$team.coverage" NAME="team Coverage Results" MODIFIED="1504578313089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_p94$2.coverage" NAME="爬虫2 Coverage Results" MODIFIED="1514894511828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_8.coverage" NAME="10.5.8 Coverage Results" MODIFIED="1505201002264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
     <SUITE FILE_PATH="coverage/Python_p94$socket_server__1_.coverage" NAME="socket_server (1) Coverage Results" MODIFIED="1513516470088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday8" />
     <SUITE FILE_PATH="coverage/Python_p94$test.coverage" NAME="test Coverage Results" MODIFIED="1506425159993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_two" />
-    <SUITE FILE_PATH="coverage/Python_p94$rlock.coverage" NAME="rlock Coverage Results" MODIFIED="1513530097254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$rlock.coverage" NAME="rlock Coverage Results" MODIFIED="1514426291316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
     <SUITE FILE_PATH="coverage/Python_p94$10_2_2.coverage" NAME="10.2.2 Coverage Results" MODIFIED="1505116875853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class2" />
     <SUITE FILE_PATH="coverage/untitled1$4_14_6.coverage" NAME="4.14.6 Coverage Results" MODIFIED="1504581392259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$5_7_7.coverage" NAME="5.7.7 Coverage Results" MODIFIED="1504612608369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_P106/package" />
@@ -52,13 +49,14 @@
     <SUITE FILE_PATH="coverage/Python_p94$7_3_12.coverage" NAME="7.3.12 Coverage Results" MODIFIED="1504940227535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
     <SUITE FILE_PATH="coverage/Python_p94$10_4_3.coverage" NAME="10.4.3 Coverage Results" MODIFIED="1505199368374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class3" />
     <SUITE FILE_PATH="coverage/Python_p94$threading_ex2.coverage" NAME="threading_ex2 Coverage Results" MODIFIED="1513523410894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
-    <SUITE FILE_PATH="coverage/Python_p94$shelve_test.coverage" NAME="shelve)test Coverage Results" MODIFIED="1511145734149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5" />
+    <SUITE FILE_PATH="coverage/Python_p94$shelve_test.coverage" NAME="shelve_test Coverage Results" MODIFIED="1514377379354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5/shelce" />
+    <SUITE FILE_PATH="coverage/Python_p94$queue.coverage" NAME="进程queue Coverage Results" MODIFIED="1514534183474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$7_3_13.coverage" NAME="7.3.13 Coverage Results" MODIFIED="1504940545463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
     <SUITE FILE_PATH="coverage/Python_p94$2_2.coverage" NAME="2.2 Coverage Results" MODIFIED="1505800857736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/1" />
     <SUITE FILE_PATH="coverage/Python_p94$6_15_5.coverage" NAME="6.15.5 Coverage Results" MODIFIED="1504832917123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p126" />
     <SUITE FILE_PATH="coverage/Python_p94$10_4_2.coverage" NAME="10.4.2 Coverage Results" MODIFIED="1505131738508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class3" />
     <SUITE FILE_PATH="coverage/Python_p94$2_2_3.coverage" NAME="2.2.3 Coverage Results" MODIFIED="1505264671520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/1" />
-    <SUITE FILE_PATH="coverage/Python_p94$xinhaoliang.coverage" NAME="xinhaoliang Coverage Results" MODIFIED="1513530643064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$xinhaoliang.coverage" NAME="xinhaoliang Coverage Results" MODIFIED="1514856491015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
     <SUITE FILE_PATH="coverage/Python_p94$5_7_4.coverage" NAME="5.7.4 Coverage Results" MODIFIED="1504612270293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_P106/package" />
     <SUITE FILE_PATH="coverage/Python_p94$6_6.coverage" NAME="6.6 Coverage Results" MODIFIED="1504615658855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test2/test" />
     <SUITE FILE_PATH="coverage/Python_p94$5_7_6.coverage" NAME="5.7.6 Coverage Results" MODIFIED="1504612434782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_P106/package" />
@@ -68,18 +66,23 @@
     <SUITE FILE_PATH="coverage/untitled1$4_13_3.coverage" NAME="4.13.3 Coverage Results" MODIFIED="1504580283564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$5_7_1.coverage" NAME="5.7.1 Coverage Results" MODIFIED="1504612018391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_P106/package" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_5.coverage" NAME="10.1.5 Coverage Results" MODIFIED="1505114107053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
+    <SUITE FILE_PATH="coverage/Python_p94$getId.coverage" NAME="get进程Id Coverage Results" MODIFIED="1514519349350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_2_3.coverage" NAME="10.2.3 Coverage Results" MODIFIED="1505118416912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class2" />
-    <SUITE FILE_PATH="coverage/Python_p94$4_13_1.coverage" NAME="4.13.1 Coverage Results" MODIFIED="1506409027207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_p94$4_13_1.coverage" NAME="4.13.1 Coverage Results" MODIFIED="1514863383386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_5.coverage" NAME="10.5.5 Coverage Results" MODIFIED="1505200142895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
+    <SUITE FILE_PATH="coverage/Python_p94$greenlet.coverage" NAME="greenlet Coverage Results" MODIFIED="1514871841509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$7_2_2.coverage" NAME="7.2.2 Coverage Results" MODIFIED="1504939002343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test7" />
     <SUITE FILE_PATH="coverage/Python_p94$FTP_client.coverage" NAME="FTP_client Coverage Results" MODIFIED="1513499542788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday8" />
+    <SUITE FILE_PATH="coverage/Python_p94$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1514375629683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../my_test/test" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_2.coverage" NAME="10.5.2 Coverage Results" MODIFIED="1505199777644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
+    <SUITE FILE_PATH="coverage/Python_p94$Io.coverage" NAME="自动Io切换 Coverage Results" MODIFIED="1514893320316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_2_5.coverage" NAME="10.2.5 Coverage Results" MODIFIED="1505118976127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class2" />
     <SUITE FILE_PATH="coverage/Python_p94$6_11.coverage" NAME="6.11 Coverage Results" MODIFIED="1504771279808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_8.coverage" NAME="4.13.8 Coverage Results" MODIFIED="1504593324347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$8_1_1.coverage" NAME="8.1.1 Coverage Results" MODIFIED="1504946983482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test8" />
-    <SUITE FILE_PATH="coverage/Python_p94$nei_zhi_fangfa.coverage" NAME="nei zhi fangfa Coverage Results" MODIFIED="1510110888554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
+    <SUITE FILE_PATH="coverage/Python_p94$nei_zhi_fangfa.coverage" NAME="nei zhi fangfa Coverage Results" MODIFIED="1514377023773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
     <SUITE FILE_PATH="coverage/Python_p94$7_3_2.coverage" NAME="7.3.2 Coverage Results" MODIFIED="1504853612073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
+    <SUITE FILE_PATH="coverage/Python_p94$xx.coverage" NAME="xx Coverage Results" MODIFIED="1514859215325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$8_1_6.coverage" NAME="8.1.6 Coverage Results" MODIFIED="1505026324074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test8" />
     <SUITE FILE_PATH="coverage/Python_p94$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1504946209345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sogou_test" />
     <SUITE FILE_PATH="coverage/Python_p94$2_4.coverage" NAME="2.4 Coverage Results" MODIFIED="1505801646023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/1" />
@@ -88,59 +91,69 @@
     <SUITE FILE_PATH="coverage/Python_p94$5_7_5.coverage" NAME="5.7.5 Coverage Results" MODIFIED="1504612349709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_P106/package" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_6.coverage" NAME="10.1.6 Coverage Results" MODIFIED="1505116068372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_2_4.coverage" NAME="10.2.4 Coverage Results" MODIFIED="1505118522618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class2" />
+    <SUITE FILE_PATH="coverage/Python_p94$duilie.coverage" NAME="duilie Coverage Results" MODIFIED="1514430254589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$pipe.coverage" NAME="pipe Coverage Results" MODIFIED="1514534656639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_3_2.coverage" NAME="10.3.2 Coverage Results" MODIFIED="1505127223728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class3" />
     <SUITE FILE_PATH="coverage/Python_p94$7_3_4.coverage" NAME="7.3.4 Coverage Results" MODIFIED="1504939109286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
     <SUITE FILE_PATH="coverage/Python_p94$6_15_3.coverage" NAME="6.15.3 Coverage Results" MODIFIED="1504832467312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p126" />
-    <SUITE FILE_PATH="coverage/Python_p94$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1513516347358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday7" />
+    <SUITE FILE_PATH="coverage/Python_p94$DoubleChromosphere.coverage" NAME="DoubleChromosphere Coverage Results" MODIFIED="1514368966367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../my_test/test" />
+    <SUITE FILE_PATH="coverage/Python_p94$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1514425152668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday7" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_4.coverage" NAME="4.13.4 Coverage Results" MODIFIED="1504580539665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$6_6__1_.coverage" NAME="6.6 (1) Coverage Results" MODIFIED="1504657107284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_11.coverage" NAME="4.13.11 Coverage Results" MODIFIED="1504596768100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$7_1_2.coverage" NAME="7.1.2 Coverage Results" MODIFIED="1504843697427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test7" />
+    <SUITE FILE_PATH="coverage/Python_p94$shengchanzhexiaofeizhe.coverage" NAME="shengchanzhexiaofeizhe Coverage Results" MODIFIED="1514430454951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
     <SUITE FILE_PATH="coverage/Python_p94$6_12.coverage" NAME="6.12 Coverage Results" MODIFIED="1504773374358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
-    <SUITE FILE_PATH="coverage/Python_p94$yanzhengma.coverage" NAME="yanzhengma Coverage Results" MODIFIED="1511144279618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5/random" />
+    <SUITE FILE_PATH="coverage/Python_p94$yanzhengma.coverage" NAME="yanzhengma Coverage Results" MODIFIED="1514377171432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5/random" />
     <SUITE FILE_PATH="coverage/Python_p94$1_6_1.coverage" NAME="1.6.1 Coverage Results" MODIFIED="1506409246002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_one" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_5.coverage" NAME="4.13.5 Coverage Results" MODIFIED="1504583876094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1505803571734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/3" />
-    <SUITE FILE_PATH="coverage/Python_p94$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1513516684391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday7" />
+    <SUITE FILE_PATH="coverage/Python_p94$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1514425159789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday7" />
     <SUITE FILE_PATH="coverage/Python_p94$weather.coverage" NAME="weather Coverage Results" MODIFIED="1504601065925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test1/sources" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_10.coverage" NAME="10.1.10 Coverage Results" MODIFIED="1505116631840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class1" />
+    <SUITE FILE_PATH="coverage/Python_p94$lock.coverage" NAME="lock Coverage Results" MODIFIED="1514856399462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_3_3.coverage" NAME="10.3,3 Coverage Results" MODIFIED="1505127687805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class3" />
-    <SUITE FILE_PATH="coverage/Python_p94$bing_xing.coverage" NAME="bing xing Coverage Results" MODIFIED="1510108250646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
+    <SUITE FILE_PATH="coverage/Python_p94$bing_xing.coverage" NAME="bing xing Coverage Results" MODIFIED="1514376815476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
     <SUITE FILE_PATH="coverage/Python_p94$1_3_6.coverage" NAME="1.3.6 Coverage Results" MODIFIED="1509505002164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../hexin/zhengze" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_7.coverage" NAME="10.1.7 Coverage Results" MODIFIED="1505116181613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
+    <SUITE FILE_PATH="coverage/Python_p94$.coverage" NAME="进程池 Coverage Results" MODIFIED="1514858564973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$6_9.coverage" NAME="6.9 Coverage Results" MODIFIED="1504659799346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
     <SUITE FILE_PATH="coverage/Python_p94$w.coverage" NAME="w Coverage Results" MODIFIED="1504772925617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test4" />
-    <SUITE FILE_PATH="coverage/Python_p94$time_test.coverage" NAME="time_test Coverage Results" MODIFIED="1511144441945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5/time_test" />
+    <SUITE FILE_PATH="coverage/Python_p94$time_test.coverage" NAME="time_test Coverage Results" MODIFIED="1514377403894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5/time_test" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_1.coverage" NAME="10.1.1 Coverage Results" MODIFIED="1505113635731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_4.coverage" NAME="10.5.4 Coverage Results" MODIFIED="1505200150929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
     <SUITE FILE_PATH="coverage/Python_p94$7_1_3.coverage" NAME="7.1.3 Coverage Results" MODIFIED="1504925659155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test7" />
     <SUITE FILE_PATH="coverage/Python_p94$socket_client__1_.coverage" NAME="socket_client (1) Coverage Results" MODIFIED="1513495870652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday8" />
+    <SUITE FILE_PATH="coverage/Python_p94$Managers.coverage" NAME="Managers Coverage Results" MODIFIED="1514855969359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_9.coverage" NAME="10.5.9 Coverage Results" MODIFIED="1505201194330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
     <SUITE FILE_PATH="coverage/Python_p94$How_many_days_lived.coverage" NAME="How_many_days_lived Coverage Results" MODIFIED="1511750111856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../my_test/mytest_long_time" />
     <SUITE FILE_PATH="coverage/Python_p94$1_6_2.coverage" NAME="1.6.2 Coverage Results" MODIFIED="1506412140434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_one" />
     <SUITE FILE_PATH="coverage/Python_p94$decorator1__1_.coverage" NAME="decorator1 (1) Coverage Results" MODIFIED="1510544973381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
     <SUITE FILE_PATH="coverage/Python_p94$6_10.coverage" NAME="6.10 Coverage Results" MODIFIED="1504770324268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
+    <SUITE FILE_PATH="coverage/Python_p94$Pascal.coverage" NAME="Pascal Coverage Results" MODIFIED="1514377745089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../my_test/test" />
     <SUITE FILE_PATH="coverage/Python_p94$6_13.coverage" NAME="6.13 Coverage Results" MODIFIED="1504778496887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test3" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_12.coverage" NAME="4.13.12 Coverage Results" MODIFIED="1504597122673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$1_1.coverage" NAME="1.1 Coverage Results" MODIFIED="1506407634549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_one" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_11.coverage" NAME="10.1.11 Coverage Results" MODIFIED="1505116742272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class1" />
     <SUITE FILE_PATH="coverage/Python_p94$123.coverage" NAME="123 Coverage Results" MODIFIED="1509504958439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../my_test/test" />
+    <SUITE FILE_PATH="coverage/Python_p94$duojincheng.coverage" NAME="duojincheng Coverage Results" MODIFIED="1514518158982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/Python_p94$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1511144304324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday5/random" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_3.coverage" NAME="10.5.3 Coverage Results" MODIFIED="1505200006928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
     <SUITE FILE_PATH="coverage/Python_p94$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1505800503017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/1" />
     <SUITE FILE_PATH="coverage/Python_p94$6_15_2.coverage" NAME="6.15.2 Coverage Results" MODIFIED="1504832340546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p126" />
     <SUITE FILE_PATH="coverage/Python_p94$10_3_1.coverage" NAME="10.3.1 Coverage Results" MODIFIED="1505125537450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class3" />
-    <SUITE FILE_PATH="coverage/Python_p94$decorator1.coverage" NAME="decorator1 Coverage Results" MODIFIED="1510109463293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday" />
+    <SUITE FILE_PATH="coverage/Python_p94$decorator1.coverage" NAME="decorator1 Coverage Results" MODIFIED="1514376843121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_9.coverage" NAME="4.13.9 Coverage Results" MODIFIED="1504594926878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$6_15_10.coverage" NAME="6.15.10 Coverage Results" MODIFIED="1504835620542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p126" />
     <SUITE FILE_PATH="coverage/Python_p94$8_1_2.coverage" NAME="8.1.2 Coverage Results" MODIFIED="1504949487128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test8" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_2.coverage" NAME="10.1.2 Coverage Results" MODIFIED="1505113742772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
     <SUITE FILE_PATH="coverage/Python_p94$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1505220246952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../web scrapig with python/1" />
     <SUITE FILE_PATH="coverage/Python_p94$7_3_6.coverage" NAME="7.3.6 Coverage Results" MODIFIED="1504939998252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
+    <SUITE FILE_PATH="coverage/Python_p94$yield.coverage" NAME="yield Coverage Results" MODIFIED="1514859995868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday10" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_2.coverage" NAME="4.13.2 Coverage Results" MODIFIED="1504580023907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$7_3_3.coverage" NAME="7.3.3 Coverage Results" MODIFIED="1504853671790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
     <SUITE FILE_PATH="coverage/Python_p94$1_8.coverage" NAME="1.8 Coverage Results" MODIFIED="1506423481719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_one" />
-    <SUITE FILE_PATH="coverage/Python_p94$xu_lie_hua.coverage" NAME="xu lie hua Coverage Results" MODIFIED="1510545081464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
+    <SUITE FILE_PATH="coverage/Python_p94$xu_lie_hua.coverage" NAME="xu lie hua Coverage Results" MODIFIED="1514377062105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday4" />
     <SUITE FILE_PATH="coverage/Python_p94$6_15_4.coverage" NAME="6.15.4 Coverage Results" MODIFIED="1504832645505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p126" />
     <SUITE FILE_PATH="coverage/Python_p94$8_2_2.coverage" NAME="8.2.2 Coverage Results" MODIFIED="1505029896396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test8" />
     <SUITE FILE_PATH="coverage/Python_p94$7_3_14.coverage" NAME="7.3.14 Coverage Results" MODIFIED="1504940631547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p149" />
@@ -148,7 +161,7 @@
     <SUITE FILE_PATH="coverage/Python_p94$10_4_1.coverage" NAME="10.4.1 Coverage Results" MODIFIED="1505130220137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10/class3" />
     <SUITE FILE_PATH="coverage/Python_p94$dingye_qq.coverage" NAME="dingye_qq Coverage Results" MODIFIED="1505823639513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../my_test/dingye_QQ" />
     <SUITE FILE_PATH="coverage/Python_p94$1_6_5.coverage" NAME="1.6.5 Coverage Results" MODIFIED="1506414818779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Professional_Python/page_one" />
-    <SUITE FILE_PATH="coverage/Python_p94$threading_ex3_lock.coverage" NAME="threading_ex3_lock Coverage Results" MODIFIED="1513529105647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
+    <SUITE FILE_PATH="coverage/Python_p94$threading_ex3_lock.coverage" NAME="threading_ex3_lock Coverage Results" MODIFIED="1514425962539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyday/pyday9" />
     <SUITE FILE_PATH="coverage/untitled1$4_13_7.coverage" NAME="4.13.7 Coverage Results" MODIFIED="1504584746487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_p94$10_1_4.coverage" NAME="10.1.4 Coverage Results" MODIFIED="1505114060618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test10" />
     <SUITE FILE_PATH="coverage/Python_p94$10_5_6.coverage" NAME="10.5.6 Coverage Results" MODIFIED="1505200826982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_p228" />
@@ -175,14 +188,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="honglvdeng.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pyday/pyday9/honglvdeng.py">
+      <file leaf-file-name="greenlet 协程.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyday/pyday10/greenlet 协程.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            <state relative-caret-position="288">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="自动Io切换.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyday/pyday10/自动Io切换.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="爬虫2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyday/pyday10/爬虫2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="16" />
               <folding>
-                <element signature="e#75#86#0" expanded="true" />
+                <element signature="e#71#97#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="greenlet_socket.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyday/pyday10/greenlet_socket.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+              <folding>
+                <element signature="e#71#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socket_servie.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../pyday/pyday10/socket_servie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding>
+                <element signature="e#72#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socket_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyday/pyday10/socket_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -205,62 +272,62 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../my_test/dingye_QQ/dingye_qq.py" />
-        <option value="$PROJECT_DIR$/../my_test/mytest_long_time/How_many_days_lived.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.1.py" />
-        <option value="$PROJECT_DIR$/4.13.1.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.6.1.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.6.2.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.6.4.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.6.5.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.6.3.2.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_one/1.8.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_two/2.2.py" />
-        <option value="$PROJECT_DIR$/../Professional_Python/page_two/test.py" />
-        <option value="$PROJECT_DIR$/../sogou_test/zhao chong fu zi chu zui duo.py" />
-        <option value="$PROJECT_DIR$/../hexin/zhengze/1.3.6.py" />
-        <option value="$PROJECT_DIR$/../web scrapig with python/pachong/maoyanTop100.py" />
-        <option value="$PROJECT_DIR$/../my_test/test/123.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/decorator.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/decorator1.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/decorator__gaochaoban.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/bing xing.py" />
-        <option value="$PROJECT_DIR$/../pyday/decorator1.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/nei zhi fangfa.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/test.txt" />
-        <option value="$PROJECT_DIR$/../pyday/pyday4/xu lie hua.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday5/random/random_test.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday5/random/yanzhengma.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday5/time_test/time_test.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday5/shelve)test.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/fanshe.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/yichangchuli.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/as.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/12.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/1.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/2.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/123.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday8/socket_client.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday8/socket_server_ssh.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday8/FTP_client.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday8/FTP_server.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday8/FTP_client_md5.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/socket_server.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday7/socket_client.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday8/socket_server.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday8/ftp_client/ftp_client.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday9/threading_ex2.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday9/threading_ex.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday9/threading_ex3_lock.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday9/threading_ex3_demo.py" />
-        <option value="$PROJECT_DIR$/../pyday/pyday9/rlock.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday9/xinhaoliang.py" />
         <option value="$PROJECT_DIR$/../pyday/pyday9/honglvdeng.py" />
+        <option value="$PROJECT_DIR$/../sogou_test/ttt.py" />
+        <option value="$PROJECT_DIR$/../my_test/test/DoubleChromosphere.py" />
+        <option value="$PROJECT_DIR$/../my_test/test/Pascal.py" />
+        <option value="$PROJECT_DIR$/../my_test/test/lambda.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday4/bing xing.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday4/decorator1.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday4/nei zhi fangfa.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday4/xu lie hua.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday9/threading_ex3_demo.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday9/rlock.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday9/duilie.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday9/shengchanzhexiaofeizhe.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/duojincheng.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/哈哈哈.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/一起.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/开心笑1.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/开心3123.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/开心123.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/开心笑00.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/妹子.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/取证照照着站站.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/阿斯顿.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/开徐.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/开心.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/中文.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/中文呢.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/get进程Id.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/进程queue.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/pipe.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/lock.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/Managers.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/进程池.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/xx.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/yield.py" />
+        <option value="$PROJECT_DIR$/4.13.1.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/xxa.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/greenlet.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/greenlet 协程.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/自动Io切换.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/爬虫2.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/socket_client.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/greenlet_socket.py" />
+        <option value="$PROJECT_DIR$/../pyday/pyday10/socket_servie.py" />
       </list>
     </option>
   </component>
@@ -291,7 +358,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,21 +367,18 @@
             </path>
             <path>
               <item name="Python_p94" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Professional_Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_p94" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyday" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_p94" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyday" type="462c0819:PsiDirectoryNode" />
-              <item name="pyday9" type="462c0819:PsiDirectoryNode" />
+              <item name="pyday10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -325,7 +388,7 @@
     <property name="SearchEverywhereHistoryKey" value="10.4.3&#9;FILE&#9;file:///home/muz/workspace/Python-workspace/test10/class3/10.4.3.py&#10;10.4.2&#9;FILE&#9;file:///home/muz/workspace/Python-workspace/test10/class3/10.4.2.py&#10;7.2.1&#9;FILE&#9;file:///home/muz/workspace/Python-workspace/test7/7.2.1.py" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="ToolWindowVersion Control.ShowToolbar" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -347,7 +410,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.honglvdeng">
+  <component name="RunManager" selected="Python.爬虫2">
+    <configuration name="爬虫2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday10/爬虫2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="4.13.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_p94" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.13.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="4.13.7" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -362,6 +461,24 @@
       <module name="untitled1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.13.7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="自动Io切换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday10/自动Io切换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -507,111 +624,57 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="honglvdeng" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="greenlet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyday" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday9/honglvdeng.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday10/greenlet 协程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="rlock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xxa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyday" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday9/rlock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="threading_ex3_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyday" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday9/threading_ex3_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="threading_ex3_lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyday" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday9/threading_ex3_lock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="xinhaoliang" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyday/pyday9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyday" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday9/xinhaoliang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyday/pyday10/xxa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.4.13.7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.threading_ex3_lock" />
-      <item index="2" class="java.lang.String" itemvalue="Python.threading_ex3_demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.rlock" />
-      <item index="4" class="java.lang.String" itemvalue="Python.xinhaoliang" />
-      <item index="5" class="java.lang.String" itemvalue="Python.honglvdeng" />
+      <item index="1" class="java.lang.String" itemvalue="Python.greenlet" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.13.1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.xxa" />
+      <item index="4" class="java.lang.String" itemvalue="Python.自动Io切换" />
+      <item index="5" class="java.lang.String" itemvalue="Python.爬虫2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.honglvdeng" />
-        <item index="1" class="java.lang.String" itemvalue="Python.xinhaoliang" />
-        <item index="2" class="java.lang.String" itemvalue="Python.rlock" />
-        <item index="3" class="java.lang.String" itemvalue="Python.threading_ex3_demo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.threading_ex3_lock" />
+        <item index="0" class="java.lang.String" itemvalue="Python.爬虫2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.自动Io切换" />
+        <item index="2" class="java.lang.String" itemvalue="Python.greenlet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.xxa" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.13.1" />
       </list>
     </recent_temporary>
   </component>
@@ -642,18 +705,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="181" y="84" width="1313" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.258498" sideWeight="0.48833594" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2202052" sideWeight="0.48833594" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.4909091" order="8" side_tool="false" content_ui="tabs" x="460" y="206" width="501" height="346" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.49960473" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.48774704" order="7" side_tool="false" content_ui="tabs" x="78" y="273" width="1265" height="212" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.4972332" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22239502" sideWeight="0.4624506" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.48774704" order="7" side_tool="false" content_ui="tabs" x="78" y="273" width="1265" height="212" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32766616" sideWeight="0.4972332" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35857806" sideWeight="0.4624506" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25505444" sideWeight="0.53754944" order="10" side_tool="true" content_ui="tabs" x="77" y="266" width="1267" height="219" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18656127" sideWeight="0.5116641" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39813375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39721793" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -724,277 +788,64 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="76" />
+      <option name="time" value="77" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/lib/python3.5/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1926">
-          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web scrapig with python/pachong/maoyanTop100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test1/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Professional_Python/page_two/2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Professional_Python/page_one/1.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../my_test/test/123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/bing xing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/nei zhi fangfa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/decorator.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday5/random/random_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/decorator1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/decorator__gaochaoban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/xu lie hua.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday4/decorator1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyday/pyday5/random/yanzhengma.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday5/random/random_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday5/time_test/time_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday5/shelce/shelve_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web scrapig with python/1/baidu.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web scrapig with python/1/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../my_test/mytest_long_time/How_many_days_lived.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyday/pyday5/shelce/shelve_test">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="0" column="5288" lean-forward="false" selection-start-line="0" selection-start-column="5288" selection-end-line="0" selection-end-column="5288" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../hexin/zhengze/1.3.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.13.4.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <caret line="0" column="6528" lean-forward="true" selection-start-line="0" selection-start-column="6528" selection-end-line="0" selection-end-column="6528" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Professional_Python/page_one/1.6.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Professional_Python/page_one/1.6.3.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Professional_Python/page_one/1.6.4.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday5/shelce/shelve_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday5/time_test/time_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyday/pyday7/fanshe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="126">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/as.py" />
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/12.py" />
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/1.py" />
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/2.py" />
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/123.py" />
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/yichangchuli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/socket_server_ssh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/FTP_client.py">
+    <entry file="file://$PROJECT_DIR$/../my_test/test/Pascal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/FTP_server.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/yichangchuli.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="e#74#88#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/FTP_client_md5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="e#74#87#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/socket_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.5/socketserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="642" column="50" lean-forward="false" selection-start-line="642" selection-start-column="41" selection-end-line="642" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1002,88 +853,228 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/socket_server.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday7/socket_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/ftp_client/ftp_client.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/哈哈哈.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/一起.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/开心笑1.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/开心3123.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/开心123.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/开心笑00.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/妹子.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/取证照照着站站.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/阿斯顿.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/开徐.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/开心.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/中文.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/中文呢.py" />
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/duojincheng.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/get进程Id.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="e#76#92#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="234">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex2.py">
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/duilie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#76#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex3_lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#76#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex3_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#76#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/rlock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/xinhaoliang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyday/pyday9/honglvdeng.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state relative-caret-position="558">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex3_lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex3_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/threading_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/进程queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/rlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/shengchanzhexiaofeizhe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/Managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday9/xinhaoliang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/进程池.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/xx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.13.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/xxa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/greenlet 协程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/自动Io切换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/爬虫2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="16" />
           <folding>
-            <element signature="e#75#86#0" expanded="true" />
+            <element signature="e#71#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday8/socket_server_ssh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/greenlet_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#71#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyday/pyday10/socket_servie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="e#72#85#0" expanded="true" />
           </folding>
         </state>
       </provider>

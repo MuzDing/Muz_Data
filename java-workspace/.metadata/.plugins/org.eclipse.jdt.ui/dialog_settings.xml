@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="/home/muz/文档/SSM/lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/home/muz/文档/ssm练习/01.参考资料/03.jar包" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="false" key="delegateUpdating"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="updateQualifiedNames"/>

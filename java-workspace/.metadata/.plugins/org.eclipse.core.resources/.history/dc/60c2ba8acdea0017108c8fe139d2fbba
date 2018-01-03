@@ -1,0 +1,23 @@
+package day2;
+
+public class Array {
+
+	public static void main(String[] args) {
+		// TODO 自动生成的方法存根
+		int[] array = {7,2,9,4,5,6,1,8,3};
+		int max=0;
+		int min=0;
+		for (int i : array) {
+			if(1==i%2){
+				System.out.println("奇数："+i);
+			}else{
+				System.out.println("偶数："+i);
+			}
+			if (value < min)
+		        min = value;
+		    if (value > max)
+		        max = value;
+		}
+	}
+
+}

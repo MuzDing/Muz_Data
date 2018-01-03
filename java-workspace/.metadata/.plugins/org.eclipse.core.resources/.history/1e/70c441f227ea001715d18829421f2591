@@ -1,0 +1,22 @@
+package day1;
+
+public class question_one {
+	public static void main(String[] args) {
+		int j = 0;
+		for (int i = 2; i <= 100; i++) {
+			for (j = 2; j < i ; j++) {
+				if (i % j == 0) {
+					break;
+				}
+			}
+			if ((i) == j) {
+				System.out.println(i);
+			}
+		}
+		int n = 16;
+        System.out.println(Math.sqrt(n));
+        System.out.println(Math.pow(2, 3));
+        System.out.println(Math.abs(-4));
+        System.out.println(Math.log10(100));
+	}
+}

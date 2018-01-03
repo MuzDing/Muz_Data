@@ -1,0 +1,10 @@
+package day3;
+
+public class AmazingNumber {
+
+	public void functionone(){
+		for(int i =0 ;i < 9 ; i++){
+			System.out.println("*" +(9-i) +i +"=9");
+		}
+	}
+}
