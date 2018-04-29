@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" filepath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Professional_Python/.idea/Professional_Python.iml" filepath="$PROJECT_DIR$/../Professional_Python/.idea/Professional_Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_p94.iml" filepath="$PROJECT_DIR$/.idea/Python_p94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dailyfresh-master/.idea/dailyfresh.iml" filepath="$PROJECT_DIR$/../dailyfresh-master/.idea/dailyfresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_day19/.idea/django_day19.iml" filepath="$PROJECT_DIR$/../django_day19/.idea/django_day19.iml" />
       <module fileurl="file://$PROJECT_DIR$/../hexin/.idea/hexin.iml" filepath="$PROJECT_DIR$/../hexin/.idea/hexin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../my_test/.idea/my_test.iml" filepath="$PROJECT_DIR$/../my_test/.idea/my_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pads_bysj/.idea/pads_bysj.iml" filepath="$PROJECT_DIR$/../pads_bysj/.idea/pads_bysj.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pyday/.idea/pyday.iml" filepath="$PROJECT_DIR$/../pyday/.idea/pyday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s14day19/.idea/s14day19.iml" filepath="$PROJECT_DIR$/../s14day19/.idea/s14day19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s14day20/.idea/s14day20.iml" filepath="$PROJECT_DIR$/../s14day20/.idea/s14day20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s14day21/.idea/s14day21.iml" filepath="$PROJECT_DIR$/../s14day21/.idea/s14day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../s14day22/.idea/s14day22.iml" filepath="$PROJECT_DIR$/../s14day22/.idea/s14day22.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sogou_test/.idea/sogou_test.iml" filepath="$PROJECT_DIR$/../sogou_test/.idea/sogou_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../web scrapig with python/.idea/web scrapig with python.iml" filepath="$PROJECT_DIR$/../web scrapig with python/.idea/web scrapig with python.iml" />
     </modules>

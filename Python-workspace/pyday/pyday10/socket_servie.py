@@ -9,7 +9,7 @@ import queue
 
 def func():
     server = socket.socket()
-    server.bind(('localhost', 9000))
+    server.bind(('localhost', 9999))
     server.listen(1000)
 
     server.setblocking(False)  # 不阻塞
@@ -31,6 +31,7 @@ def func():
                 inputs.append(conn)  # 是因为这个新建立的连接还没发数据过来，现在就接收的话程序就报错了，
                 # 所以要想实现这个客户端发数据来时server端能知道，就需要让select再监测这个conn
                 msg_dic[conn] = queue.Queue()  # 初始化一个队列，后面存要返回给这个客户端的数据
+
             else:  # conn2
                 data = r.recv(1024)
                 print("收到数据", data)
@@ -46,6 +47,7 @@ def func():
 
             outputs.remove(w)  # 确保下次循环的时候writeable,不返回这个已经处理完的连接了
 
+
         for e in exceptional:
             if e in outputs:
                 outputs.remove(e)
@@ -53,7 +55,6 @@ def func():
             inputs.remove(e)
 
             del msg_dic[e]
-
 
 class Main():
     def __init__(self):

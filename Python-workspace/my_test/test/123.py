@@ -1,3 +1,4 @@
+
 def sub_sort(array,low,high):
     key = array[low]
     while low < high:
@@ -24,5 +25,7 @@ if __name__ == '__main__':
     print (array1)
     quick_sort1(array1,0,len(array1)-1)
     print (array1)
+
+
 
 
